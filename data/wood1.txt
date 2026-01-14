@@ -5,17 +5,17 @@
     <title>木材测试数据</title>
 </head>
 <body>
-    <a href="knobbed_index.html">← 返回木材列表</a>
-    <h1>木材界面测试数据</h1>
+    <a href="wood_index.html">← 返回木材列表</a>
+    <h1>软木杯垫（Cork-softwood coaster）界面测试数据</h1>
     
     <h3>原始界面信息</h3>
-    <img src="../images/sine1.png" alt="测试图" style="max-width:500px;">
-    <img src="../images/fabric_cotton_plot.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/wood1-1.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/wood1-2.png" alt="测试图" style="max-width:500px;">
   
     <h3>原始数据绘图</h3>
-    <img src="../images/sine1_plot.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/wood1_plot.png" alt="测试图" style="max-width:500px;">
     
     <h3>原始数据</h3>
-    <a href="../files/fabric_cotton.xlsx" download>点击下载 Excel 数据</a>
+    <a href="../files/wood1.xls" download>点击下载 Excel 数据</a>
 </body>
 </html>

@@ -5,17 +5,17 @@
     <title>纸测试数据</title>
 </head>
 <body>
-    <a href="fabric_index.html">← 返回纸列表</a>
-    <h1>纸界面测试数据</h1>
+    <a href="paper_index.html">← 返回纸列表</a>
+    <h1>砂纸（80mesh)界面测试数据</h1>
     
     <h3>原始界面信息</h3>
-    <img src="../images/fabric1.png" alt="测试图" style="max-width:500px;">
-    <img src="../images/fabric1.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/paper5.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/paper5.png" alt="测试图" style="max-width:500px;">
   
     <h3>原始数据绘图</h3>
-    <img src="../images/sine1_plot.png" alt="测试图" style="max-width:500px;">
+    <img src="../images/paper5_plot.png" alt="测试图" style="max-width:500px;">
     
     <h3>原始数据</h3>
-    <a href="../files/fabric_cotton.xlsx" download>点击下载 Excel 数据</a>
+    <a href="../files/paper5.xls" download>点击下载 Excel 数据</a>
 </body>
 </html>
