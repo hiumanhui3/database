@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <title>方形凸点类別细分</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f4; }
+        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; }
+        .grid-container { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px; }
+        .square_bump-item { border: 1px solid #ddd; padding: 15px; text-align: center; background: #fff; text-decoration: none; color: #333; font-weight: bold; }
+        .square_bump-item:hover { background: #2c3e50; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../database.html">← 返回主目录</a>
+        <h1>请选择方形凸点细分类别：</h1>
+        <div class="grid-container">
+            <a href="square_bump1.html" class="square_bump-item">方形凸点</a>
+            <a href="square_bump2.html" class="square_bump-item">2倍振幅</a>
+            <a href="square_bump3.html" class="square_bump-item">4倍振幅</a>
+            <a href="square_bump4.html" class="square_bump-item">1.5倍週期（in x)</a>
+            <a href="square_bump5.html" class="square_bump-item">2倍週期（in x)</a>
+            <a href="square_bump6.html" class="square_bump-item">1.5倍週期（in x and y)</a>
+        </div>
+    </div>
+</body>
+</html>
